@@ -22,10 +22,10 @@ function names()
 					Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[Owner - 🛠]' .. Player.DisplayName)
 				end
 			end
-		elseif table.find(WhitelistedIDS, Player.UserId) then
+		elseif table.find(TesterIDS, Player.UserId) then
 		    if Player.Character then
 				if Player.Character.Parent.Name == 'Players' then
-					Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[💲]' .. Player.DisplayName)
+					Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🔌 - Tester]' .. Player.DisplayName)
 				end
 		    end
 		elseif table.find(ltkmember, Player.UserId) then
