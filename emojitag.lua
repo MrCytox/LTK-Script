@@ -3,17 +3,15 @@ OwnerIDS = {
     4948286244, -- plugs
 }
 
-WhitelistedIDS = {
-    601414537,
+TesterIDS = {
+    4096995068, -- vic
+	4484832617, -- damari
 }
 
 ltkmember = {
-    932473395,
-	4096995068, -- vic
+	442105737, -- thug
 	4149518659, -- jay
 	1580015266, -- inferno
-	442105737, -- thug
-	4484832617, -- damari
 }
 --\\ Don't mess with anything below this
 function names()
