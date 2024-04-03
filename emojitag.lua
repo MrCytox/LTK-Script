@@ -6,8 +6,8 @@ OwnerIDS = {
 TesterIDS = {
     4096995068, -- vic
     4484832617, -- damari
-    663588583 -- gtekkau
-    3836872720 -- gainedz
+    663588583, -- gtekkau
+    3836872720, -- gainedz
 }
 
 ltkmember = {
