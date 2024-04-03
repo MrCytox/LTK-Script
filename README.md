@@ -1,1 +1,1 @@
-# LTK-Script
+# stop the skidding !
