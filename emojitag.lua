@@ -34,13 +34,13 @@ function names()
 		elseif table.find(ltkmember, Player.UserId) then
 		    if Player.Character then
 		        if Player.Character.Parent.Name == 'Players' then
-		            Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[👀 - LTK]' .. Player.DisplayName)
+		            Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[👓 - LTK Member]' .. Player.DisplayName)
 		        end
 		    end
 		    if Player.Character then
 			    if Player.Character.Parent.Name == 'Players' then
 				    if not Player.Character.UpperTorso:FindFirstChild('OriginalSize') then
-					    Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🤓]' .. Player.DisplayName)
+					    Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[🎮 - LTK User]' .. Player.DisplayName)
 				    end
 			    end
 		    end
