@@ -23,6 +23,7 @@ ltkmember = {
 	2202278786, -- nightcore
 	3014261002, -- relic
 	1783844868, -- mikey / felon
+	2748778710, -- zai / gavehermyfunds
 }
 --\\ Don't mess with anything below this
 function names()
@@ -36,13 +37,13 @@ function names()
 		elseif table.find(TesterIDS, Player.UserId) then
 		    if Player.Character then
 				if Player.Character.Parent.Name == 'Players' then
-					Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[✅]' .. Player.DisplayName)
+					Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[👓]' .. Player.DisplayName)
 				end
 		    end
 		elseif table.find(ltkmember, Player.UserId) then
 		    if Player.Character then
 		        if Player.Character.Parent.Name == 'Players' then
-		            Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[💎]' .. Player.DisplayName)
+		            Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[⭐]' .. Player.DisplayName)
 		        end
 		    end
 		    if Player.Character then
