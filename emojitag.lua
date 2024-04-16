@@ -22,7 +22,7 @@ ltkmember = {
 	78588179, -- joey
 	2202278786, -- nightcore
 	3014261002, -- relic
-	663588583 -- alu
+	663588583, -- alu
 }
 --\\ Don't mess with anything below this
 function names()
