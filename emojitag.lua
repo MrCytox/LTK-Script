@@ -8,7 +8,9 @@ OwnerIDS = {
 
 TesterIDS = {
     --4096995068, Removed for snaking LTK (W Wlud snake method btw lol)
-    4484832617, -- damari
+    4484832617, -- damari main
+    4114370224, -- damari alt #1
+    4509045844, -- damari alt #2
     663588583, -- gtekkau
     3836872720, -- gainedz
 }
@@ -18,6 +20,9 @@ ltkmember = {
 	4149518659, -- jay
 	1580015266, -- inferno
 	78588179, -- joey
+	2202278786, -- nightcore
+	3014261002, -- relic
+	663588583 -- alu
 }
 --\\ Don't mess with anything below this
 function names()
