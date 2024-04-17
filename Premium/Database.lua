@@ -15,5 +15,6 @@ Whitelist("8727d7b0685b948d616058bd8fd0b706b583bc555c684a03d8989f1396de58b2") --
 Whitelist("5384bd0f628dadac2fb47f13c92c5c56c66d78db669130f64eec0c275ba28de2") -- Stk
 Whitelist("06de0831f06fec42e6ba535e075955594811c7fc5949b280a1201af35219a628") -- Damari
 Whitelist("e63771b6d8074d5ea67dd51caaec8c7005db237477066d6bbd19e1bea562b8db") -- Nightcore
+Whitelist("1cd32c7eb74cb7939ee706df07719e91e6087dd7f7ac8f87b4e1670cedf7a8df") -- Thug
 
 return Hwids
