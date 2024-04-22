@@ -16,6 +16,6 @@ Whitelist("5384bd0f628dadac2fb47f13c92c5c56c66d78db669130f64eec0c275ba28de2") --
 Whitelist("06de0831f06fec42e6ba535e075955594811c7fc5949b280a1201af35219a628") -- Damari
 Whitelist("e63771b6d8074d5ea67dd51caaec8c7005db237477066d6bbd19e1bea562b8db") -- Nightcore
 Whitelist("1cd32c7eb74cb7939ee706df07719e91e6087dd7f7ac8f87b4e1670cedf7a8df") -- Thug
-Whitelist("8736ad8fb56d9e5d9b0c3ed0e9c765a00d6970f0ece43491119971660ff94f28") -- Jordan [2 day free trial]
+Whitelist("723dc6b0cc2691f6f519475b9f43cc4438e85b74a374c8d0d12e9d6b760e63b0")
 
 return Hwids
